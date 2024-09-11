@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adiaxida.github.io/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/app/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/assets/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/css/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/includes/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/item/sitemap.html.gz
+Sitemap: https://adiaxida.github.io/src/sitemap.html.gz
